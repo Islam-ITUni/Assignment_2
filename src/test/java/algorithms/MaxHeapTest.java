@@ -124,3 +124,4 @@ class MaxHeapTest {
         assertTrue(heap.getTracker().getArrayAccesses() > 0);
     }
 }// Edge case handling
+// Edge case handling
