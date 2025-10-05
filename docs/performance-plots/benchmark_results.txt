@@ -1,0 +1,27 @@
+Testing with n = 100
+Construction Time: 0.0519 ms
+Extraction Time: 0.0903 ms
+Comparisons: 1242
+Swaps: 485
+Array Accesses: 2833
+
+Testing with n = 1000
+Construction Time: 0.1514 ms
+Extraction Time: 1.2346 ms
+Comparisons: 18794
+Swaps: 8032
+Array Accesses: 44255
+
+Testing with n = 10000
+Construction Time: 2.9288 ms
+Extraction Time: 17.8717 ms
+Comparisons: 255342
+Swaps: 114213
+Array Accesses: 611439
+
+Testing with n = 100000
+Construction Time: 17.7789 ms
+Extraction Time: 141.7256 ms
+Comparisons: 3220182
+Swaps: 1475414
+Array Accesses: 7781101
