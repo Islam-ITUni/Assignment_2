@@ -189,3 +189,4 @@ public class MaxHeap {
 // Edge case: handle single element optimization
 // Optimization: Improved heapify performance
 // Edge case handling
+// Optimization: memory efficiency
