@@ -1,0 +1,11 @@
+Extraction Time vs Input Size
+↑
+150 |                 •
+    |            •
+100 |       •
+50  |   •
+0   +---|----|----|----|--→
+     100  1K   10K  100K
+     Input Size (n)
+
+Pattern: O(n log n) growth confirmed
